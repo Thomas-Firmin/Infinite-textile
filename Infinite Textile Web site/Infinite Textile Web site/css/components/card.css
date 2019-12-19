@@ -1,0 +1,63 @@
+.card-container {
+	padding: 20px;
+	box-shadow: 0px 10px 30px black;
+	border-radius: 10px;
+	background-color: beige;
+	text-align: center;
+
+}
+.card-Bin {
+	padding: 20px;
+	box-shadow: 0px 10px 30px black;
+	border-radius: 10px;
+	background-color: beige;
+	text-align: center;
+}
+
+.card-bottles {
+	padding: 20px;
+	box-shadow: 0px 10px 30px black;
+	border-radius: 10px;
+	background-color: beige;
+	text-align: center;
+
+}
+
+.card-logo {
+	padding: 30px;
+	align-items: center;
+	padding: 30px;
+	text-align: center;
+	border-radius: 45%;
+}
+
+.card-button {
+	text-align: center;
+	margin: 20px;
+}
+
+
+.card-house {
+	text-align: center;
+	padding: 20px;
+	margin: 40px 10px black;
+	background-color: black;
+	color: black;
+}
+
+
+.card-product {
+	text-align: center;
+	padding: 20px;
+	box-shadow: 0px 10px 30px black;
+	background-color: beige;
+}
+
+.btn-grey:hover{
+	background-color: black;
+	color: white;
+}
+
+
+
+

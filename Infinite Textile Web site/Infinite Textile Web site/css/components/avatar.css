@@ -1,0 +1,13 @@
+ .avatar {
+ 	width: 150px;
+ 	height: 150px;
+ 	border-radius: 50%;
+ }
+
+ .bottles {
+ 	border-radius:10%;
+ }
+
+ .Bin {
+ 	border-radius: 10%;
+ }
